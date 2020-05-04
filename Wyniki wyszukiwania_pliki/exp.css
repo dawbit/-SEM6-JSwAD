@@ -1,0 +1,56 @@
+.resultlabel /* == bib.css->h3 */
+{
+font-size: 18px;
+text-align: center;
+text-transform: uppercase;
+color: maroon;
+font-weight: bold;
+}
+
+
+
+.querylabel {font-weight: bold;}
+
+.resultrecords {font-size: 12px; color:  #000000; text-decoration: none; text-align: left;}
+
+.indexterms {font-size: 12px; color:  #0000FF; text-decoration: none; text-align: left;}
+
+
+.recordnum /* == bib.css->licznik */
+{
+/*
+border-top: 1px solid #87785C;
+font-size: 8pt;
+font-weight: bold;
+color: #87785C;
+background:#FBEED4;
+padding: 2px;
+*/
+text-align: right;
+}
+
+
+.cntfoundtxt {font-weight: bold;}
+.cntfoundnum {font-weight: bold;}
+
+.idxlabel /* == bib.css->h3 */
+{
+text-align: center;
+text-transform: uppercase;
+color: maroon;
+font-weight: bold;
+}
+
+.norecords {font-weight: bold;}
+
+.hint {font-size: 11px; color: #0000FF; text-decoration: none}
+.note {font-size: 10px; color: #0000FF; text-decoration: none}
+
+
+.field {font-size: 12px; color: #000000; text-decoration: none;}
+.label {font-size: 11px; color: #000000; text-decoration: none; font-weight: bold;}
+
+.zro   {font-size: 12px; color: #2B60DE; font-weight: bold;}
+.nrop {font-weight: bold;}
+
+.buttontext {height: 20px; width: 140px;}
